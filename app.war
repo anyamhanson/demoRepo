@@ -1,0 +1,4 @@
+#!/bin/bash
+#This sipt will run deployment packages
+echo deploy all applications to the webserver
+print ('welcome to hanson deployment services')
